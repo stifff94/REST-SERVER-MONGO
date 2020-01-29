@@ -7,6 +7,12 @@ Recuerda instalar los paquetes
 ```
 npm install
 ```
+EJECUCION
+
+```
+node server/server
+```
+
 LISTAR USAURIOS
 LLAMADO GET
 ```
